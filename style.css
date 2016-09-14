@@ -1,0 +1,35 @@
+/*------general-----*/
+.parallax-container {
+     height: 40vh;
+   }
+
+/*------nav-----*/
+.brandName {
+  font-family: 'Satisfy', cursive;
+  font-size: 3rem;
+  margin: 1rem;
+}
+
+.nav-wrapper {
+  background-color: aquamarine;
+}
+
+nav a {
+  color: rgba(0,0,0,0.87);
+}
+
+nav ul a {
+  color: rgba(0,0,0,0.87);
+}
+
+/*------body-----*/
+
+.section {
+  font-family: 'Lato', sans-serif;
+}
+
+.socialMedia {
+  height: 30px;
+  width: 30px;
+  padding: 5px;
+}
